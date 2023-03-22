@@ -28,10 +28,10 @@ xball=0
 yball=1
 score=0
 myfont = pygame.font.SysFont('Comic Sans MS', 30)
-pic=pygame.image.load("back.jpg")
-sound=pygame.mixer.Sound("sound.ogg")
-lava=pygame.image.load("lava.jpg")
-death=pygame.mixer.Sound("Death Spike.ogg")
+pic=pygame.image.load("assets/back.jpg")
+sound=pygame.mixer.Sound("assets/sound.ogg")
+lava=pygame.image.load("assets/lava.jpg")
+death=pygame.mixer.Sound("assets/Death Spike.ogg")
 OneLives=3
 #main game loop
 running= True
