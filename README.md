@@ -1,7 +1,7 @@
 # Python-Brick-Breaker-Game
   This is a game made using the pygame library! 
   The user can slide the board using the left and right keys, the goal is to keep bouncing the ball for as long as possible.
-  Note that some realstic elements are added such as correct rebound trajectory depending on impact spot.
+  Note that some realistic elements are added such as correct rebound trajectory depending on impact spot.
   
   The interface:
   
